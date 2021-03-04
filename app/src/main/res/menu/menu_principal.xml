@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- PARA CRIAR MENU
+      Res (botão direito) ->  New -> Android Resource File ->
+        File name (menu_principal) -> Resource type (menu) -->
+
+    <item
+            android:id="@+id/reset"
+            android:title=""
+            android:icon="@drawable/ic_reset"
+            app:showAsAction="ifRoom"/>
+
+</menu>

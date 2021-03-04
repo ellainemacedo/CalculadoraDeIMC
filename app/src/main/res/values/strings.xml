@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="edt_peso">Peso</string>
+    <string name="edt_altura">Altura</string>
+    <string name="btn_calcular">Calcular IMC</string>
+
+</resources>
